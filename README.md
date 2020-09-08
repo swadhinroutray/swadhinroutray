@@ -1,4 +1,4 @@
-### Hi I'm Swadhin Routray 👋
+### Hello there! 👋
 
 </a>
 <a href="https://www.linkedin.com/in/swadhin-routray-ba20ab125/">
