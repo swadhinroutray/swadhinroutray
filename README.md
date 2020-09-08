@@ -21,14 +21,14 @@
 <br />
 <br />
 
-Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India .Currently a third year Computer & Communications student from MIT, Manipal. My interests lie in the domains of Web Dev and DevOps. Would love to get in touch with you!. Currently, I'm working with serverless applications using [AWS Lambda and IBM Cloud Functions](https://github.com/swadhinroutray/multi-cloud) as well as working on a TLS/SSL Scanner.
+Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year Computer & Communications student from MIT, Manipal. My interests lie in the domains of server-side development, DevOps and Cloud Networking. Currently, I'm working with serverless applications using [AWS Lambda and IBM Cloud Functions](https://github.com/swadhinroutray/multi-cloud) as well as working on a TLS/SSL Scanner.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
 - 🤔 My research interests are with Cloud Networking and Cybersecurity.
-- 💬 Ask me about anything, I would like to answer.
+- 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1y9tACEWhn1maEnQ_DwAIcgO5egIJCF5k/view) to get more info.
 
