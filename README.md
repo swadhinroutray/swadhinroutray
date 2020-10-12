@@ -29,4 +29,4 @@ Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year 
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1y9tACEWhn1maEnQ_DwAIcgO5egIJCF5k/view) to get more info.
 
-![Swadhin Routray's github stats](https://github-readme-stats.vercel.app/api?username=swadhinroutray&show_icons=true&hide_border=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
