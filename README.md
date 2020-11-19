@@ -27,6 +27,6 @@ Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year 
 - 🤔 My research interests are with Cloud Networking and Cybersecurity.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
-- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1y9tACEWhn1maEnQ_DwAIcgO5egIJCF5k/view) to get more info.
+- 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1kJTTTTAORMynCPuMxqZdX2-qsRtA7pWf/view?usp=sharing) to get more info.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
