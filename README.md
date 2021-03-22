@@ -28,5 +28,6 @@ Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year 
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1kJTTTTAORMynCPuMxqZdX2-qsRtA7pWf/view?usp=sharing) to get more info.
+![Visitor Count](https://profile-counter.glitch.me/{swadhinroutray}/count.svg)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swadhinroutray&layout=compact" alt="itsnitigya" width="300" height="250" />
