@@ -23,7 +23,7 @@ Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-
+- :zap: Currently working on research related to Cloud based storage and Ethereum blockchains
 - 🤔 My research interests are with Cloud Networking and Cybersecurity.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
