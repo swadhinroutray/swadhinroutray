@@ -18,13 +18,13 @@
 <br />
 <br />
 
-Hi, I'm Swadhin 😉, a programmer 👨🏻‍💻 from India. I'm a third year Computer & Communications student from MIT, Manipal.You can check my [website](https://swadhinroutray.com/) out! My interests lie in the domains of server-side development, DevOps, Cloud Dev & Security & Cryptography. 
+Hi, I'm Swadhin, a programmer 👨🏻‍💻 from India. I'm a final year Computer & Communications student from MIT, Manipal.You can check my [website](https://swadhinroutray.com/) out! My interests lie in the domains of server-side development, DevOps, Cloud Dev & Security & Privacy!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-- :zap: Currently working on research related to Cloud based storage and Ethereum blockchains.
-- 🤔 My research interests are with Cloud Networking and Cybersecurity.
+- :zap: Currently focusing on applications of Homomorphic Encryption and Differential Privacy for data privacy.
+- 🤔 My research interests are along the lines of privacy and security.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1kJTTTTAORMynCPuMxqZdX2-qsRtA7pWf/view?usp=sharing) to get more info.
