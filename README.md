@@ -23,7 +23,7 @@ Hi, I'm Swadhin, a Privacy Engineering Graduate student @ Carnegie Mellon Univer
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
-- :zap: Currently focusing on applications of Homomorphic Encryption and Differential Privacy for data privacy.
+- :zap: Currently focusing on applications Differential Privacy.
 - 🤔 My research interests are along the lines of privacy and security.
 - 💬 Ask me about anything, I would love to talk to you!
 - 📫 Please email via swadhin.routray@gmail.com to reach me.
