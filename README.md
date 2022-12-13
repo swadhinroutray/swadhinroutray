@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Hi, I'm Swadhin, a programmer 👨🏻‍💻 from India. I'm a Privacy Engineering Graduate student @ Carnegie Mellon University.You can check my [website](https://swadhinroutray.com/) out! My interests lie in the domains of server-side development, DevOps, Cloud Dev & Security & Privacy!
+Hi, I'm Swadhin, a Privacy Engineering Graduate student @ Carnegie Mellon University. My interests lie in the domains of Differential Privacy, Synthetic Data and CLoud Security!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
